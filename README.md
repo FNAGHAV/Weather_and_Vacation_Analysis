@@ -1,9 +1,9 @@
 # Weather and Vacation Analysis
 
-Project Overview
+Project Overview:
 This repository contained two main Python projects: WeatherPy and VacationPy. These projects leveraged data science techniques and APIs to analyze weather patterns and help plan ideal vacation destinations.
 
-WeatherPy
+WeatherPy:
 The WeatherPy project visualized the weather of over 500 cities at varying distances from the equator. It used the OpenWeatherMap API, the citipy library, and Python for data analysis and visualization.
 
 Key Objectives:
@@ -14,7 +14,7 @@ Created Bar Charts and Pie Charts: Visualized the distribution of timepoints and
 Calculated Quartiles, Found Outliers, and Created Box Plots: Examined the distribution of tumor volumes for promising drug regimens, identified outliers, and visualized the data using box plots.
 Conducted Individual Mouse Analysis: Analyzed tumor volume over time for a specific mouse treated with Capomulin and explored the correlation between mouse weight and average observed tumor volume.
 
-VacationPy
+VacationPy:
 The VacationPy project could help plan future vacations based on weather conditions. It used the weather data from WeatherPy and additional APIs to find ideal vacation spots and nearby hotels.
 
 Key Objectives:
@@ -26,5 +26,5 @@ Found Nearby Hotels: Used the Geoapify API to locate the first hotel within 10,0
 Added a .gitignore File:
 For this assignment, I needed to add a .gitignore file to the repo. Doing so prevented the api_keys.py file that contained my API key from being shared with the public.
 
-Conclusion
+Conclusion:
 The WeatherPy and VacationPy projects showcased the power of Python and data science in analyzing weather patterns and planning vacations. By leveraging APIs and data visualization techniques, these projects provided valuable insights for both scientific research and practical decision-making.
